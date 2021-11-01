@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    
+}
+.container{
+    border: solid;
+    height: 100vh;
+}
+nav{
+    border: solid;
+    padding: 2rem;
+    display: flex;
+    flex:2;
+
+}
+.logo{
+
+}
+.lists{
+    border: solid;
+ 
+}
+ul{
+    display: flex;
+}
